@@ -9,15 +9,15 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-let madeMenu = `❁ ════ ❃•⇆•❃ ════ ❁
+let madeMenu = `● ════ ❃•⇆•❃ ════ ●
 
-*👋 HELLO ${pushname}*\n\n *I AM SILENT LOVER 432*\n\n *I AM 19 YEARS OLD BOY 🔞*\n\n *I AM FROM PERSNOL HAI😁🙈*\n\n *I AM SIMPLE WHATSAPP BOT DEVELOPER👨‍💻*\n\n\n *THANK YOU.😊*
+*👋 HELLO ${pushname}*\n\n *I AM NR RASHU MD*\n\n *I AM 18 YEARS OLD BOY 🔞*\n\n *I AM FROM SRI LANKA (SOORIYAWEWA )😁🙈*\n\n *I AM SIMPLE WHATSAPP BOT DEVELOPER👨‍💻*\n\n\n *THANK YOU.😊*
 
-❁ ════ ❃•⇆•❃ ════ ❁
+● ════ ❃•⇆•❃ ════ ●
 
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛ_ʟᴏᴠᴇʀ⁴³²*
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴʀ ʀᴀꜱʜᴜ ᴍᴅ*
 
-╰━❁ ═══ ❃•⇆•❃ ═══ ❁━╯
+╰━● ═══ ❃•⇆•❃ ═══ ●━╯
 `
 
 await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu},{quoted:mek})
