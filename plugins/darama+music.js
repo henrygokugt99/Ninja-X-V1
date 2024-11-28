@@ -4,7 +4,7 @@ const yts = require('yt-search')
 cmd({
     pattern: "play2",
     desc: "To download songs.",
-    react: "🎵",
+    react: "🎧",
     category: "download",
     filename: __filename
 },
@@ -17,7 +17,7 @@ const url = data.url
     
     
 let desc = `
-⫷⦁[ *SILENT-SOBX-MD MUSIC DOWNLOADING* ]⦁⫸
+*🐭⃝💗 𝐍𝐑 𝐑𝐀𝐒𝐇𝐔 𝐌𝐃 𝐒𝐎𝐍𝐆 𝐃𝐀𝐖𝐍𝐋𝐎𝐀𝐃 💗⃝🐭*
 
 🎵 *MUSIC FOUND!* 
 
@@ -27,11 +27,11 @@ let desc = `
 ➥ *Uploaded On:* ${data.ago} 
 ➥ *Link:* ${data.url} 
 
-🎧 *ENJOY THE MUSIC BROUGHT TO YOU!*
+💗⃝🐭 *ENJOY THE MUSIC BROUGHT TO YOU!*
 
-> *SILENT-SOBX-MD WHATSAPP BOT* 
+> *NR-RASHU-MD WHATSAPP BOT* 
 
-> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²* 
+> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴄʏʙᴇʀ ʀᴜꜱʜ ᴍᴅ* 
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
@@ -70,9 +70,9 @@ const url = data.url
     
     
 let desc = `
-⫷⦁[ *•SILENT-SOBX-MD VIDEO DOWNLOADING* ]⦁⫸ 
+*🐭⃝💗 𝐍𝐑 𝐑𝐀𝐒𝐇𝐔 𝐌𝐃 𝐒𝐎𝐍𝐆 𝐃𝐀𝐖𝐍𝐋𝐎𝐀𝐃 💗⃝🐭*
 
-🎥 *VIDEO FOUND!* 
+🎥 *VIDEOS FOUND!* 
 
 ➥ *Title:* ${data.title} 
 ➥ *Duration:* ${data.timestamp} 
@@ -80,11 +80,11 @@ let desc = `
 ➥ *Uploaded On:* ${data.ago} 
 ➥ *Link:* ${data.url} 
 
-🎬 *ENJOY THE VIDEO BROUGHT TO YOU!*
+💗⃝🐭 *ENJOY THE MUSIC BROUGHT TO YOU!*
 
-> *SILENT-SOBX-MD WHATSAPP BOT* 
+> *NR-RASHU-MD WHATSAPP BOT* 
 
-> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²*
+> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴄʏʙᴇʀ ʀᴜꜱʜ ᴍᴅ*
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
