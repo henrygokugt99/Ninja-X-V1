@@ -10,9 +10,9 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         const steps = [
-            '💻 *SILENT-SOBX-MD HACK STARTING...* 💻',
+            '💻 *𝐍𝐑 𝐑𝐀𝐒𝐇𝐔 𝐌𝐃 𝐇𝐀𝐂𝐊 𝐒𝐓𝐀𝐑𝐓𝐈𝐍𝐆...* 💻',
             '',
-            '*Initializing hacking tools...* 🛠️',
+            '*Initializing Rashu hacking tools...* 🛠️',
             '*Connecting to remote servers...* 🌐',
             '',
             '```[██████████] 10%``` ⏳'                                            ,
@@ -38,7 +38,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             '⚠️ *Reminder:* Ethical hacking is the only way to ensure security.',
             '⚠️ *Reminder:* Strong hacking is the only way to ensure security.',
             '',
-            ' *👨‍💻 YOUR DATA HACK SUCCESSFULLY 👩‍💻☣*'
+            ' *👨‍💻 RASHU MD BOT YOUR DATA HACK SUCCESSFULLY 👩‍💻☣*'
         ];
 
         for (const line of steps) {
