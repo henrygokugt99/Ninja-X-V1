@@ -13,7 +13,7 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let status = `*╭──────────●●►*
-*SILENT-SOBX-MD UPTIME LIST↷*
+*𝐍𝐑-𝐑𝐀𝐒𝐇𝐔-MD UPTIME LIST↷*
 
 *_UPTIME:➠_*  ${runtime(process.uptime())}
 
@@ -21,7 +21,7 @@ let status = `*╭──────────●●►*
 
 *_HOSTNAME:➠_* ${os.hostname()}
 
-*_OWNER:➠_* *SILENT LOVER⁴³²*
+*_OWNER:➠_* *𝐂𝐘𝐁𝐄𝐑 𝐑𝐔𝐒𝐇 𝐌𝐎𝐃𝐙*
 *╰──────────●●►*
 `
 await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:`${status}`},{quoted:mek})
