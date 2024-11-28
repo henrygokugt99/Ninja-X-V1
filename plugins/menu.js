@@ -185,7 +185,7 @@ let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 *❒⁠⁠⁠⁠▭▬▭▬▭▬▭▬▭▬▭▬▭❒*⁠⁠⁠⁠
 
 ┏━━━━━━━━━━━━━━━━━━━
-*https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s*
+*https://youtube.com/@rashumodz_0715?si=5pg_wumwy6VzizMP*
 ┗━━━━━━━━━━━━━━━━━━━
 
 
