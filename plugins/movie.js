@@ -25,7 +25,7 @@ cmd({
         }
 
         const movieInfo = `
-*🎬 SILENT-SOBX-MD 🎬*
+*🎬 NR-RASHU-MD 🎬*
 
 *ᴛɪᴛʟᴇ:* ${data.Title}
 *ʏᴇᴀʀ:* ${data.Year}
@@ -41,14 +41,14 @@ cmd({
 *ᴀᴡᴀʀᴅꜱ:* ${data.Awards}
 *ɪᴍᴅʙ ʀᴀᴛɪɴɢ:* ${data.imdbRating}
 
-> POWERED BY SILENT-SOBX-MD
+> POWERED BY NR RASHU MD
 `;
 
         const imageUrl = data.Poster && data.Poster !== 'N/A' ? data.Poster : config.ALIVE_IMG;
 
         await conn.sendMessage(from, {
             image: { url: imageUrl },
-            caption: `${movieInfo}\n> CREATED BY SILENTLOVER432`
+            caption: `${movieInfo}\n> CREATED BY CYBER RUSH`
         }, { quoted: mek });
     } catch (e) {
         console.error(e);
