@@ -8,7 +8,7 @@ cmd({
 
     pattern: "settings",
 
-    react: "☣️",
+    react: "⚙️",
 
     alias: ["setting","env"],
 
@@ -25,7 +25,7 @@ cmd({
 async(conn, mek, m,{from, l, quoted, body, isCmd, umarmd, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 
 try{
-let madeSetting =`*╭────⚃* *SETTINGS* *⚃*
+let madeSetting =`*╭────⚃* *NR RASHU MD SETTINGS* *⚃*
 *┊* *♾️ AUTO_READ_STATUS:* ➠ ${config.AUTO_READ_STATUS}
 *┊* *♾️ MODE:* ➠ ${config.MODE} 
 *┊* *♾️ AUTO_VOICE:* ➠ ${config.AUTO_VOICE} 
@@ -42,7 +42,7 @@ let madeSetting =`*╭────⚃* *SETTINGS* *⚃*
 *┊* *♾️ OWNER_REACT:* ➠ ${config.OWNER_REACT} 
 *┊* *♾️ BOT_NAME:* ➠ ${config.BOT_NAME}
 
-> © ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²
+> © 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐍𝐑 𝐑𝐀𝐒𝐇𝐔 𝐌𝐃 
 *╰═════════════⚃*
 `
 
