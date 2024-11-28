@@ -23,17 +23,17 @@ async(conn, mek, m,{from, l, quoted, body, isCmd, umarmd, args, q, isGroup, send
 try{
 let madeMenu = `❁ ════ ❃•◯•❃ ════ ❁
 
-*⇆ ʜɪɪ ᴍʏ ᴅᴇᴀʀ ғʀɪᴇɴᴅ ⇆*
+*⇆ 🐭⃝💗𝑯𝒀𝑬 𝑾𝑬𝑳𝑪𝑶𝑴𝑬 𝑵𝑹 𝑹𝑨𝑺𝑯 𝑴𝑫 ⇆*
 
      *${pushname}*
      
 ❁ ════ ❃•◯•❃ ════ ❁
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━
-      *ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ғᴜʟʟ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ*
+      *ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ɴʀ ʀᴀꜱʜᴜ ᴍᴅ 3 ᴍᴇɴᴜ ʟɪsᴛ*
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-*ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²👨🏻‍💻*
+*ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɴʀ ʀᴀꜱʜᴜ ᴍᴅ👨🏻‍💻*
 
 
 *╭──❮ DOWNLOAD COMMANDS ❯*
@@ -41,13 +41,13 @@ let madeMenu = `❁ ════ ❃•◯•❃ ════ ❁
 │📖 COMMAND: .play
 │ℹ️ Download Audio from yt
 │ 
-│📖 COMMAND: .song
+│📖 COMMAND: .nrsong
 │ℹ️ Download song from yt
 │ 
 │📖 COMMAND: .apk
 │ℹ️ Download apk from playstore
 │ 
-│📖 COMMAND: .video
+│📖 COMMAND: .nrvideo
 │ℹ️ Download video from yt
 │ 
 │📖 COMMAND: .fb
@@ -154,11 +154,11 @@ let madeMenu = `❁ ════ ❃•◯•❃ ════ ❁
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-> *https://github.com/SILENTLOVER40/SILENT-SOBX-MD*
+> *https://youtube.com/@rashumodz_0715?si=5pg_wumwy6VzizMP*
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛ_ʟᴏᴠᴇʀ⁴³²*
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴʀ ʀᴀꜱʜᴜ ᴍᴅ*
 
 ╰━❁ ═══ ❃•⇆•❃ ═══ ❁━╯
 `
