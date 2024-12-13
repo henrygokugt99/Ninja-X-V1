@@ -12,8 +12,8 @@ module.exports = {
     READ_MESSAGE: process.env.READ_MESSAGE || "true", // Added auto-read configuration
     MODE: process.env.MODE || "public",
     AUTO_VOICE: process.env.AUTO_VOICE || "true",
-    AUTO_STICKER: process.env.AUTO_STICKER || "false",
-    AUTO_REPLY: process.env.AUTO_REPLY || "false",
+    AUTO_STICKER: process.env.AUTO_STICKER || "true",
+    AUTO_REPLY: process.env.AUTO_REPLY || "true",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/fLT56Lj0/IMG-9750.png",
     ALIVE_MSG: process.env.ALIVE_MSG || "HELLO , THIS IS TRESH BOT 😊♻️",
     ANTI_LINK: process.env.ANTI_LINK || "true",
